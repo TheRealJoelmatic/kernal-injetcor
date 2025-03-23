@@ -40,5 +40,5 @@ Use it only to learn from the mistakes and outdated techniques.
 ---
 
 ### © Joelmatic - All rights reserved.
-If you have questions or want to learn how to do things the right way, reach out. But don’t resell my old work. That’s just lame.
+If you have questions or want to learn how to do things the right way, reach out. But don’t resell my old work. That’s just werid yk.
 
