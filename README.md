@@ -1,5 +1,3 @@
-# ⚠️ DISCLAIMER - DEPRECATED CODEBASE ⚠️
-
 > **This project is deprecated and provided solely for educational reference.**
 
 This code is being publicly released **only** because certain individuals have attempted to **sell it without permission**, falsely claiming it as their own. I am publishing it here to prevent scammers from profiting off work they didn’t write and to shut down any misinformation surrounding its origin.
