@@ -33,7 +33,7 @@ This code is being publicly released **only** because certain individuals have a
 ---
 
 ## 🧵 Final Notes
-This was one of my **early projects**, and while it served as a valuable learning experience, **it is not safe, undetected, or up to par with any modern standards**.
+This was one of my **early projects**, and a the code is terrible.
 Anyone trying to repackage or resell this is simply scamming you.
 Use it only to learn from the mistakes and outdated techniques.
 
